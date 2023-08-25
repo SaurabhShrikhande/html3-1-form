@@ -9,4 +9,4 @@
 
 elpanation - 
 we use input tag, in which input tag we use different type like txt,email,password,date,time,checkbox also we use radio button for one click other will be automatically deselect.
-also we use select tag and button tag in which we use typr resubmit submit. also we use fieldset for box border and lengend for we can say like haeding.
+also we use select tag for select options. and button tag in which we use typr resubmit submit. also we use fieldset for box border and lengend for we can say like haeding.
